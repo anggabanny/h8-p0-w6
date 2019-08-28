@@ -1,7 +1,7 @@
 # h8-p0-w6 🦊📑
 Hacktiv8 Phase 0 Week 6: Finals and JavaScript DOM
 
-### [Challenge] FINAL LIVE CODE 🔜
+### [Challenge] FINAL LIVE CODE 💯
 ### [Latihan Pribadi 1] Memanipulasi Element HTML 🔜
 ### [Latihan Pribadi 2] Memanipulasi dan Menjelajah DOM 🔜
 ### [Latihan Pribadi 3] Membuat Validasi Form menggunakan JavaScript 🔜
