@@ -6,4 +6,4 @@ Hacktiv8 Phase 0 Week 6: Finals and JavaScript DOM
 ### [Latihan Pribadi 2] Memanipulasi dan Menjelajah DOM 🔜
 ### [Latihan Pribadi 3] Membuat Validasi Form menggunakan JavaScript 🔜
 ### [Latihan Pribadi 4] Membuat Element HTML Dinamis Dengan JavaScript 🔜
-### [Final Project] Membuat Web App menggunakan HTML, CSS, dan JavaScript 🔜
+### [FINAL PROJECT](https://github.com/anggabanny/codefox.github.io) &nbsp; &nbsp; Membuat Web App menggunakan HTML, CSS, dan JavaScript 💯
